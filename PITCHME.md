@@ -44,6 +44,7 @@
  _Depend in the direction of stablility_
   - stability = higher cost of change (many dependents)
   - irresponsible and dependent vs responsible and independent
+---
 ### 6. Coupling: Stable Abstractions Principle
  _A package should be as abstract as it is stable_
  - stable packages should be more abstract
