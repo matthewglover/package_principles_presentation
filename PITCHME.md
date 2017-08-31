@@ -8,4 +8,4 @@
  - 6 Principles:
   - 3 Package Cohesion Principles
   - 3 Package Coupling Principles
---
+---
